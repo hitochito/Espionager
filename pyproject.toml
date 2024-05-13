@@ -1,0 +1,5 @@
+[project]
+name = "espionager"
+version = "0.0.1"
+readme = "README.md"
+dependencies = ["build", "click", "packaging", "pyproject_hooks", "pytube"]
