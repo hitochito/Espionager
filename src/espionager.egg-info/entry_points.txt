@@ -1,2 +1,2 @@
 [console_scripts]
-cli-name = main
+esp = main:esp
