@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+espionager.egg-info/PKG-INFO
+espionager.egg-info/SOURCES.txt
+espionager.egg-info/dependency_links.txt
+espionager.egg-info/entry_points.txt
+espionager.egg-info/requires.txt
+espionager.egg-info/top_level.txt
