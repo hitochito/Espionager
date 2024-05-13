@@ -1,9 +1,0 @@
-[project]
-name = "espionager"
-version = "0.0.1"
-readme = "README.md"
-requires-python = ">=3.8"
-dependencies = ["click <= 8.1.7", "pytube <= 15.0.0"]
-
-[project.scripts]
-esp = "main:esp"
