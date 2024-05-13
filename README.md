@@ -5,7 +5,7 @@ I want to download any video from any source that can be possible to be download
 # WHAT IS ESPIONAGER?
 
 This is a personal project I've been working on to download and manage media.
-ESPIONAGER is a JavaScript-based script designed for covert media acquisition.
+ESPIONAGER is a Python-based script designed for covert media acquisition.
 It allows users to download media content from various sources, including YouTube and other video sites.
 The script supports downloading both video and audio formats, enabling users to save content as MP3 or video files.
 Additionally, ESPIONAGER offers the capability to tag downloaded music files and specify the resolution format for downloads.
