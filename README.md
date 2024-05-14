@@ -1,3 +1,7 @@
+# Commands (For Building) (In Windows)
+
+- pyinstaller --onefile --name esp esp.py
+
 # Basic Idea
 
 I want to download any video from any source that can be possible to be downloaded by yt-dlp.
